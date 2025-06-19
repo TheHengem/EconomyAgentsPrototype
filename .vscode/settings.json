@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "GoldMiningPrototype.sln"
+    "dotnet.defaultSolution": "EconomyAgentsPrototype.sln"
 }
